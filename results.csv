@@ -1,0 +1,4 @@
+graph,algorithm,solver
+k5,10us
+k10,20us
+k15,30us
